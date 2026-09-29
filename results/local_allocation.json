@@ -1,0 +1,107 @@
+[
+  {
+    "layer": "conv1",
+    "drop_at_70_pp": 14.86,
+    "chosen_sparsity": 0.17708333333333334
+  },
+  {
+    "layer": "layer1.0.conv1",
+    "drop_at_70_pp": 0.03999999999999204,
+    "chosen_sparsity": 0.6966959635416666
+  },
+  {
+    "layer": "layer1.0.conv2",
+    "drop_at_70_pp": 0.11999999999999034,
+    "chosen_sparsity": 0.685791015625
+  },
+  {
+    "layer": "layer1.1.conv1",
+    "drop_at_70_pp": 0.2599999999999909,
+    "chosen_sparsity": 0.6675347222222222
+  },
+  {
+    "layer": "layer1.1.conv2",
+    "drop_at_70_pp": 0.0,
+    "chosen_sparsity": 0.7022569444444444
+  },
+  {
+    "layer": "layer2.0.conv1",
+    "drop_at_70_pp": 0.6999999999999886,
+    "chosen_sparsity": 0.6160074869791666
+  },
+  {
+    "layer": "layer2.0.conv2",
+    "drop_at_70_pp": 0.2599999999999909,
+    "chosen_sparsity": 0.66754150390625
+  },
+  {
+    "layer": "layer2.0.downsample.0",
+    "drop_at_70_pp": 0.11999999999999034,
+    "chosen_sparsity": 0.685791015625
+  },
+  {
+    "layer": "layer2.1.conv1",
+    "drop_at_70_pp": 0.37999999999999545,
+    "chosen_sparsity": 0.6526557074652778
+  },
+  {
+    "layer": "layer2.1.conv2",
+    "drop_at_70_pp": 0.0,
+    "chosen_sparsity": 0.7022569444444444
+  },
+  {
+    "layer": "layer3.0.conv1",
+    "drop_at_70_pp": 0.0799999999999983,
+    "chosen_sparsity": 0.6911960177951388
+  },
+  {
+    "layer": "layer3.0.conv2",
+    "drop_at_70_pp": 0.0,
+    "chosen_sparsity": 0.7022552490234375
+  },
+  {
+    "layer": "layer3.0.downsample.0",
+    "drop_at_70_pp": 0.0,
+    "chosen_sparsity": 0.7022705078125
+  },
+  {
+    "layer": "layer3.1.conv1",
+    "drop_at_70_pp": 0.0,
+    "chosen_sparsity": 0.7022552490234375
+  },
+  {
+    "layer": "layer3.1.conv2",
+    "drop_at_70_pp": 0.0,
+    "chosen_sparsity": 0.7022552490234375
+  },
+  {
+    "layer": "layer4.0.conv1",
+    "drop_at_70_pp": 0.0,
+    "chosen_sparsity": 0.702256096733941
+  },
+  {
+    "layer": "layer4.0.conv2",
+    "drop_at_70_pp": 0.0,
+    "chosen_sparsity": 0.702256096733941
+  },
+  {
+    "layer": "layer4.0.downsample.0",
+    "drop_at_70_pp": 0.0,
+    "chosen_sparsity": 0.7022552490234375
+  },
+  {
+    "layer": "layer4.1.conv1",
+    "drop_at_70_pp": 0.0,
+    "chosen_sparsity": 0.702256096733941
+  },
+  {
+    "layer": "layer4.1.conv2",
+    "drop_at_70_pp": 0.0,
+    "chosen_sparsity": 0.702256096733941
+  },
+  {
+    "layer": "fc",
+    "drop_at_70_pp": 0.0,
+    "chosen_sparsity": 0.70234375
+  }
+]

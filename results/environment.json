@@ -1,0 +1,37 @@
+{
+  "python": "3.13.15 (main, Aug  6 2026, 11:06:22) [GCC 13.3.0]",
+  "torch": "2.11.0+cu128",
+  "torchvision": "0.26.0+cu128",
+  "cuda": "12.8",
+  "cudnn": 91900,
+  "gpu": "Tesla T4",
+  "gpu_total_MB": 15637.086208,
+  "cpu": "x86_64",
+  "batch_size": 128,
+  "input": [
+    3,
+    32,
+    32
+  ],
+  "seed": 624,
+  "mean": [
+    0.4914,
+    0.4822,
+    0.4465
+  ],
+  "std": [
+    0.2471,
+    0.2435,
+    0.2616
+  ],
+  "train_samples": 45000,
+  "validation_samples": 5000,
+  "test_samples": 10000,
+  "checkpoint_sha256": "72d30ca70e7d54e24a26628113604c40bc872eb8dc7a44f50ec58c3a1400f1b0",
+  "repository_commit": "641cac24371b17052b9bb6e56af1c83b5e97cd7f",
+  "target_sparsity": 0.7,
+  "finetuning_epochs": 12,
+  "scratch_epochs": 50,
+  "structured_epochs": 18,
+  "architecture_sha256": "0eb3706c924c670bfd61879053f1b32eb2039fccb239e38d44533af3550fdc03"
+}

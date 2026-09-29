@@ -1,0 +1,14 @@
+{
+  "checkpoint_roundtrips": {
+    "baseline": true,
+    "local": true,
+    "global": true,
+    "iterative_magnitude": true,
+    "iterative_grasp": true,
+    "structured": true
+  },
+  "all_final_mask_checks": true,
+  "profiling_state": "No live optimizer, gradients, or GPU pruning masks.",
+  "equal_unstructured_budgets": true,
+  "sensitivity_trials": 147
+}

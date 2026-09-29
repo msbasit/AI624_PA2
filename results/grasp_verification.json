@@ -1,0 +1,5 @@
+{
+  "hvp_matches_toy_hessian": true,
+  "largest_signed_scores_removed": true,
+  "max_hvp_error": 1.1102230246251565e-16
+}

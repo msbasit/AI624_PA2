@@ -1,0 +1,26 @@
+[
+  {
+    "batches": 159,
+    "seconds": 2.008176237999578,
+    "gpu_J": 131.37330551525554,
+    "cpu_J": null,
+    "gpu_J_per_batch": 0.8262472044984625,
+    "cpu_J_per_batch": null
+  },
+  {
+    "batches": 157,
+    "seconds": 2.0046086900001683,
+    "gpu_J": 132.2124050529023,
+    "cpu_J": null,
+    "gpu_J_per_batch": 0.8421172296363204,
+    "cpu_J_per_batch": null
+  },
+  {
+    "batches": 161,
+    "seconds": 2.010817505999512,
+    "gpu_J": 131.9834466633496,
+    "cpu_J": null,
+    "gpu_J_per_batch": 0.8197729606419231,
+    "cpu_J_per_batch": null
+  }
+]

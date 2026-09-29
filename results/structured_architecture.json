@@ -1,0 +1,17 @@
+{
+  "hidden_widths": {
+    "layer1.1": 18,
+    "layer2.0": 36,
+    "layer2.1": 36,
+    "layer3.0": 73,
+    "layer3.1": 73,
+    "layer4.0": 145,
+    "layer4.1": 145
+  },
+  "weight_reduction": 0.7003204485132679,
+  "target": 0.7,
+  "original_eligible_weights": 11164352,
+  "remaining_eligible_weights": 3345728,
+  "pruning_seconds": 26.651042097999834,
+  "shortcut_policy": "Keep all external branch and shortcut channels unchanged."
+}
